@@ -1,6 +1,6 @@
 # eyes_path
 a temporary collection for a later project
-
+anti copy: 8964
 ## Free
 
 [[https://app.spline.design/home]] 3d moduling from image with AI
